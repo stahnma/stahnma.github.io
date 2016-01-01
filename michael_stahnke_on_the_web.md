@@ -3,7 +3,7 @@
 Twitter: [@stahnma](http://twitter.com/stahnma)
 
 Github: [stahnma](http://github.com/stahnma)
-
+g
 # Speaking
 
 
@@ -152,6 +152,7 @@ I had the privilege of being a speaker at the very first DevOpsDays in North Ame
 
 ## Articles
 
+* Current blog on [Medium](https://medium.com/@stahnma)
 * 09 April 2015 - [Git Sucess Stories, Tips and Tricks](http://www.linux.com/news/featured-blogs/200-libby-clark/822555-git-success-stories-and-tips-from-puppet-labs-michael-stahnke). This was part of the 10 years of git series on linux.com.
 * SysAdvent 2014 - [The Pursuit of Learning Through Bad Ideas](http://sysadvent.blogspot.com/2014/12/day-20-pursuit-of-learning-through-bad.html)
 * SysAdvent 2013 - [Yum and repository tools by example](http://sysadvent.blogspot.com/2013/12/day-4-yum-and-repository-tools-by.html)
