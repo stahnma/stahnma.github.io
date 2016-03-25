@@ -3,7 +3,7 @@
 Twitter: [@stahnma](http://twitter.com/stahnma)
 
 Github: [stahnma](http://github.com/stahnma)
-g
+
 # Speaking
 
 
