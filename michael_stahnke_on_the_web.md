@@ -160,6 +160,7 @@ I had the privilege of being a speaker at the very first DevOpsDays in North Ame
 * SysAdvent 2010 - [A journey to NoSQL](http://sysadvent.blogspot.com/2010/12/day-11-journey-to-nosql.html)
 * Websages 2011 - [Another take on hero culture](http://blog.websages.com/2011/03/10/another-take-on-hero-culture/)
 * Websages 2011 - [Configuraion Management Odyssey](http://blog.websages.com/2011/01/29/configuration-managment-an-odyssey/
+* Linux.com 2006 - []Exploiting Amazon Web Services via PHP and SQLite](https://www.linux.com/news/exploiting-amazon-web-services-php-and-sqlite)
 
 ## Book
 * [In 2005, I wrote Pro OpenSSH](http://www.amazon.com/OpenSSH-Experts-Voice-Open-Source/dp/1590594762/)
