@@ -68,6 +68,7 @@ Github: [stahnma](http://github.com/stahnma)
 #### Getting Started with Puppet (v1)
 
 Note: I think I like v1 of this talk more than v2. v1 has patterns, v2 has who/what/where/why. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TdAmAj3eaFI" frameborder="0" allowfullscreen></iframe>
 
 ---
 
