@@ -8,6 +8,16 @@ Medium: [@stahnma](http://medium.com/@stahnma)
 
 # Speaking
 
+## DevOpsDays Madison 2016
+###
+[Slides on Speakerdeck](https://speakerdeck.com/stahnma/welcome-to-the-brownfield-where-automation-meets-reality)
+[Video](https://youtu.be/SdxZTZrHh1Q?list=PLT33rRDdESXK6cBq16wuo_dKz5WpkVn5h)
+
+## PuppetConf 2016
+###
+
+[Link](https://www.youtube.com/watch?v=WaSaiRFAExo&t=22s)
+
 ## Automacon 2.0
 ### 27 September 2016
 
@@ -19,7 +29,7 @@ I was the primary emcee for the Automacon 2.0. I also gave a quick lighting talk
 
 ---
 ## Velocity NYC 2016
-### 21 September 2016 
+### 21 September 2016
 #### Must be willing to relocate: not anymore
 
 Video Pending
@@ -53,18 +63,18 @@ Video Pending
 ### 07 December 2015
 #### Automating in a Brownfield Environment
 
-No video available. 
+No video available.
 
 [Automating in a Brownfield Environment](https://speakerdeck.com/stahnma/automating-in-a-brownfield-environment)
 
 ---
 
-## PuppetCamp Atlanta 
+## PuppetCamp Atlanta
 ### 03 December 2015
 #### Automating in a Brownfield Environment
 
 
-No video available. 
+No video available.
 
 [Slides on Speakerdeck](https://speakerdeck.com/stahnma/automating-in-a-brownfield-environment)
 
